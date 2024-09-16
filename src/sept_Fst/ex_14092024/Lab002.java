@@ -9,6 +9,9 @@ public class Lab002 {
         boolean prachi_hyd = true;
         boolean _244 = false;
         System.out.println(_244);
+        char hct = 'h';
+        int int_hct = hct;
+        System.out.println(+int_hct);
 
     }
 }
