@@ -17,6 +17,7 @@ public class Lab001 {
         //System.out.println(ch+bh);
         byte f = 2;
         int x = f; //widening, implicit, will be done by JVM
+        float y = (float)f; // widening, explicit.
         int g = 4;
         int r = f+g; // widening -implicit
         float s =  1440.0765f;
